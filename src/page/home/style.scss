@@ -1,0 +1,21 @@
+.home {
+    width: 100%;
+    height: 100%;
+    padding:16px;
+    .btn {
+        cursor: pointer;
+        width: 100px;
+        height: 50px;
+        border-radius: 8px;
+        background: none;
+        border: 2px solid silver;
+        color: black;
+        font-size: 18px;
+        transition: 0.5s;
+    }
+    
+    .btn:hover {
+        border: 2px solid white;
+    }
+}
+
